@@ -1,5 +1,8 @@
 # kado_untukmu
 
+### why have to use this app
+this is for someone wanna give present with "IT ways", I made this because is fun and enjoyable for people I care
+
 ### how to install
 just install .apk in this directory and give permission 
 
